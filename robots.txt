@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shengnantang.github.io/sitemap.xml
